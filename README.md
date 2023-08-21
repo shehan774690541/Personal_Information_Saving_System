@@ -40,7 +40,6 @@ Go to the <code>\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug</code> loca
 
 It can be reset by pressing Finish/Reset button.
 
-    </td>
   </tr>
 </table>
 
