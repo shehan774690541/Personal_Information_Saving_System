@@ -22,14 +22,14 @@ Go to the <code>\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug</code> loca
     <td colspan='2'>Enter your data in this as above</td>
   </tr>
   <tr>
-    <td>2.)</td>
+    <td>3.)</td>
     <td> <img src="images/panel1_2.png" /> </td>
   </tr>
   <tr>
     <td colspan='2'></td>
   </tr>
   <tr>
-    <td>2.)</td>
+    <td>4.)</td>
     <td> <img src="images/panel1_2.png" /> </td>
   </tr>
   <tr>
