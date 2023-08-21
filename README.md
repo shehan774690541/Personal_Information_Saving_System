@@ -39,6 +39,8 @@ Go to the <code>\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug</code> loca
       Finally, the data you prepared will be prepared and a note will be given to you.. If you want to make more changes, you can go back and change them.
 
 It can be reset by pressing Finish/Reset button.
+
+<code>\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug</code>
     </td>
   </tr>
 </table>
