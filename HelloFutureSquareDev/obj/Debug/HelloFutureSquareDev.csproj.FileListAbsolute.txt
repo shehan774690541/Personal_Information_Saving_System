@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug\HelloFutureSquareDev.exe.config
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug\HelloFutureSquareDev.exe
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug\HelloFutureSquareDev.pdb
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\obj\Debug\HelloFutureSquareDev.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\obj\Debug\HelloFutureSquareDev.Form1.resources
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\obj\Debug\HelloFutureSquareDev.Properties.Resources.resources
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\obj\Debug\HelloFutureSquareDev.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\obj\Debug\HelloFutureSquareDev.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\obj\Debug\HelloFutureSquareDev.exe
+C:\Users\user\Desktop\New folder\intervire\HelloFutureSquareDev\HelloFutureSquareDev\obj\Debug\HelloFutureSquareDev.pdb
