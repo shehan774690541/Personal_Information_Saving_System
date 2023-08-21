@@ -228,6 +228,7 @@ namespace HelloFutureSquareDev
             cb_male.Checked = false;
             dp_DOB.Value = DateTime.Today;
             cb_membership.Text = "<SELECT MEMBERSHIP>";
+            cb_confirm.Checked = false;
 
             panel3.Visible = false;
             panel1.Visible = true;
