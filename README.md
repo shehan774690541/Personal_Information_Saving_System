@@ -45,6 +45,6 @@ It can be reset by pressing Finish/Reset button.
 
 
 ### Data Output
-<img src='save file.png' /> 
+<img src='images/save file.png' /> 
 This text file will be created in the same location as the software.. This data will be saved in your computer with the next button given in the second instance.
 
