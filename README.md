@@ -23,14 +23,14 @@ Go to the <code>\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug</code> loca
   </tr>
   <tr>
     <td>3.)</td>
-    <td> <img src="images/panel1_2.png" /> </td>
+    <td> <img src="images/panel2.png" /> </td>
   </tr>
   <tr>
-    <td colspan='2'></td>
+    <td colspan='2'>In this second window that opens, the data you entered will be slightly adjusted and displayed. If it is not correct, you can go <b>"back"</b> and re-arrange using the back button.</td>
   </tr>
   <tr>
     <td>4.)</td>
-    <td> <img src="images/panel1_2.png" /> </td>
+    <td> <img src="images/panel3.png" /> </td>
   </tr>
   <tr>
     <td colspan='2'></td>
