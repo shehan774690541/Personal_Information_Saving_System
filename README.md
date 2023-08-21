@@ -26,13 +26,20 @@ Go to the <code>\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug</code> loca
     <td> <img src="images/panel2.png" /> </td>
   </tr>
   <tr>
-    <td colspan='2'>In this second window that opens, the data you entered will be slightly adjusted and displayed. If it is not correct, you can go <b>"back"</b> and re-arrange using the back button.</td>
+    <td colspan='2'>In this second window that opens, the data you entered will be slightly adjusted and displayed. If it is not correct, you can go <b>"back"</b> and re-arrange using the back button.
+
+    Before pressing next button give conworm a tick and give nexts.. then you can proceed.
+    </td>
   </tr>
   <tr>
     <td>4.)</td>
     <td> <img src="images/panel3.png" /> </td>
   </tr>
   <tr>
-    <td colspan='2'></td>
+    <td colspan='2'>
+      Finally, the data you prepared will be prepared and a note will be given to you.. If you want to make more changes, you can go back and change them.
+
+It can be reset by pressing Finish/Reset button.
+    </td>
   </tr>
 </table>
