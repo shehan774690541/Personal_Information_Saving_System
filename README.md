@@ -14,4 +14,25 @@ Go to the <code>\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug</code> loca
   <tr>
     <td colspan='2'>Enter all the details as shown here. After that give the next prompt.. All the things in this window will be deleted and a new window will open..</td>
   </tr>
+  <tr>
+    <td>2.)</td>
+    <td> <img src="images/panel1_2.png" /> </td>
+  </tr>
+  <tr>
+    <td colspan='2'>Enter your data in this as above</td>
+  </tr>
+  <tr>
+    <td>2.)</td>
+    <td> <img src="images/panel1_2.png" /> </td>
+  </tr>
+  <tr>
+    <td colspan='2'></td>
+  </tr>
+  <tr>
+    <td>2.)</td>
+    <td> <img src="images/panel1_2.png" /> </td>
+  </tr>
+  <tr>
+    <td colspan='2'></td>
+  </tr>
 </table>
