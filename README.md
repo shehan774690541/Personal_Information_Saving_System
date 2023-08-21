@@ -29,7 +29,6 @@ Go to the <code>\HelloFutureSquareDev\HelloFutureSquareDev\bin\Debug</code> loca
     <td colspan='2'>In this second window that opens, the data you entered will be slightly adjusted and displayed. If it is not correct, you can go <b>"back"</b> and re-arrange using the back button.
 
     Before pressing next button give conworm a tick and give nexts.. then you can proceed.
-    </td>
   </tr>
   <tr>
     <td>4.)</td>
@@ -43,3 +42,9 @@ It can be reset by pressing Finish/Reset button.
     </td>
   </tr>
 </table>
+
+
+### Data Output
+<img src='save file.png' /> 
+This text file will be created in the same location as the software.. This data will be saved in your computer with the next button given in the second instance.
+
